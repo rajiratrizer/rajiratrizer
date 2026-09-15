@@ -214,20 +214,20 @@ A student management application designed to manage student information and reco
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Contribution activity
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiratrizer&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
-
+<br>
 ---
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rajiratrizer&theme=tokyonight&hide_border=true"/>
+<img src="./profile/streak.svg" height="180"/>
 
 </div>
 
