@@ -98,7 +98,7 @@ I enjoy taking an idea from **💡 concept → 💻 code → 🚀 working produc
 
 <div align="center">
 
-<a href="https://github.com/rajiratrizer/EcoSortAI">
+<a href="https://github.com/rajiratrizer/EcoSort_AI">
 
 <img src="https://img.shields.io/badge/🌱%20VIEW%20ECOSORT%20AI-00A86B?style=for-the-badge"/>
 
@@ -135,7 +135,7 @@ An AI-powered chatbot designed to help users understand and compare Kenya's Fina
 
 <div align="center">
 
-<a href="https://github.com/rajiratrizer">
+<a href="https://github.com/Finance-bill-chatbot">
 
 <img src="https://img.shields.io/badge/🤖%20VIEW%20PROJECT-6C63FF?style=for-the-badge"/>
 
@@ -162,7 +162,7 @@ A student management application designed to manage student information and reco
 
 <div align="center">
 
-<a href="https://github.com/rajiratrizer">
+<a href="https://github.com/Student-management-system">
 
 <img src="https://img.shields.io/badge/🎓%20VIEW%20PROJECT-00B4D8?style=for-the-badge"/>
 
