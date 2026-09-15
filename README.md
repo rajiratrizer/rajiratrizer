@@ -218,10 +218,7 @@ A student management application designed to manage student information and reco
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajiratrizer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiratrizer&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+<img src="./profile/stats.svg" height="180"/>
 </div>
 
 ---
