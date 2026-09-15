@@ -26,9 +26,8 @@ I enjoy taking an idea from **💡 concept → 💻 code → 🚀 working produc
 
 ## 👨🏽‍💻 About Me
 
-🎓 **Bachelor of Computer Science and IT**  
-🏫 **Egerton University**  
-📅 **Expected Graduation: 2028**  
+🎓 **Bachelor of Computer Science **  
+🏫 **Egerton University**   
 🤖 Interested in **Artificial Intelligence**  
 💻 Passionate about **Software Development**  
 📱 Interested in **Mobile Application Development**  
