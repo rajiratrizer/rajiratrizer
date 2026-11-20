@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">trizer&#39;s GitHub Stats, Rank: C</title>
+        <title id="titleId">Trizer Ragira&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 3, Total Commits  : 10, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 242.8053862617382;
+        stroke-dashoffset: 239.31472775774952;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >trizer&#39;s GitHub Stats</text>
+      >Trizer Ragira&#39;s GitHub Stats</text>
     </g>
       </g>
     
